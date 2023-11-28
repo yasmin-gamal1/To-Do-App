@@ -11,9 +11,6 @@ This is a simple To-Do App designed for managing tasks. Users can add tasks, mar
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Add new tasks to the list.
